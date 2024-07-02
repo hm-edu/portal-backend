@@ -8,7 +8,7 @@ require (
 	github.com/smallstep/certificates v0.25.2
 	go.opentelemetry.io/otel v1.27.0
 	go.uber.org/zap v1.27.0
-	google.golang.org/grpc v1.64.0
+	google.golang.org/grpc v1.65.0
 )
 
 require (
